@@ -10,9 +10,15 @@ I'm an aspiring Junior Frontend Developer specializing in React, TypeScript, and
     
 </div>
 
+***
+
 - 🔭 I’m currently working on **Weather App in React Native**
+
 - 🌱 I’m currently learning **JavaScript, TypeScript and React**
+
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
+
 - ⚡ Fun fact: **I love dogs ❤️🐕**
 
