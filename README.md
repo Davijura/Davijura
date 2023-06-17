@@ -14,7 +14,7 @@
 
 - 💬 Ask me about ...
 
-- 📫 How to reach me: davijura88@gmail.com
+- 📫 How to reach me: **davijura88@gmail.com**
 
 - ⚡ Fun fact: **I love dogs ❤️🐕**
 
