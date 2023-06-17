@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Weather App in React Native**
 
-- 🌱 I’m currently learning **JavaScript, TypeScript and React**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about ...
 
