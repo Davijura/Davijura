@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+    
+<h1>Hi. I’m David</h1> 
 
-<!--
-**Davijura/Davijura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+I'm an aspiring Junior Frontend Developer specializing in React, TypeScript, and JavaScript. I have a keen interest in web development and mobile app creation.
+    
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on **Weather App in React Native**
+- 🌱 I’m currently learning **JavaScript, TypeScript and React**
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: **I love dogs ❤️🐕**
+
