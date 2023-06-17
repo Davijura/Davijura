@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about ...
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me: **davijura88@gmail.com**
 
