@@ -1,3 +1,5 @@
+![github_image3](https://github.com/Davijura/Davijura/assets/120600626/ed731487-44b3-4540-acb2-1a5c2f7de7cb)
+
 <div align="center">
     
 <h1>Hi. I’m David</h1> 
